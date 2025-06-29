@@ -1,0 +1,18 @@
+userName: mayur_X5qSjd
+accessKey: xK88P229VbyaLSWcRyye
+platforms:
+  - deviceName: Samsung Galaxy S25 Ultra
+    osVersion: 15.0
+    browserName: samsung
+    deviceOrientation: portrait
+  - deviceName: Motorola Moto G71 5G
+    osVersion: 11.0
+    browserName: chrome
+    deviceOrientation: portrait
+  - deviceName: iPhone 13
+    osVersion: 15
+    browserName: Chromium
+    deviceOrientation: portrait
+browserstackLocal: true
+buildName: browserstack-build-1
+projectName: BrowserStack Sample

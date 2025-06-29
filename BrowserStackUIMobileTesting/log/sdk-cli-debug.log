@@ -1,0 +1,92 @@
+2025-06-29T06:43:44.707Z CLI debug [testhub:service]     loaded module: _0x53428d
+2025-06-29T06:43:44.707Z CLI debug [instrumentation:service]     loaded module: instrumentation:module
+2025-06-29T06:43:44.707Z CLI debug [observability:service]     loaded module: observability:module
+2025-06-29T06:43:44.708Z CLI debug [accessibility:service]     loaded module: accessibility:module
+2025-06-29T06:43:44.708Z CLI debug [ai:service]     loaded module: _0x56cf5f
+2025-06-29T06:43:44.709Z CLI debug [percy:service]     loaded module: _0x1cf5af
+2025-06-29T06:43:44.710Z CLI debug [local:service]     loaded module: _0x11bf74
+2025-06-29T06:43:44.710Z CLI debug [appautomate:service]     loaded module: appautomate:module
+2025-06-29T06:43:44.783Z CLI debug [main]     Starting main function execution
+2025-06-29T06:43:44.784Z CLI debug [main]     Executing CLI
+2025-06-29T06:43:46.417Z CLI debug [testhub:service]     loaded module: _0x53428d
+2025-06-29T06:43:46.418Z CLI debug [instrumentation:service]     loaded module: instrumentation:module
+2025-06-29T06:43:46.418Z CLI debug [observability:service]     loaded module: observability:module
+2025-06-29T06:43:46.418Z CLI debug [accessibility:service]     loaded module: accessibility:module
+2025-06-29T06:43:46.419Z CLI debug [ai:service]     loaded module: _0x56cf5f
+2025-06-29T06:43:46.419Z CLI debug [percy:service]     loaded module: _0x1cf5af
+2025-06-29T06:43:46.420Z CLI debug [local:service]     loaded module: _0x11bf74
+2025-06-29T06:43:46.420Z CLI debug [appautomate:service]     loaded module: appautomate:module
+2025-06-29T06:43:46.502Z CLI debug [main]     Starting main function execution
+2025-06-29T06:43:46.503Z CLI debug [main]     Generated binSessionId: 031e3abf-a643-433a-86c4-31c8e8907010
+2025-06-29T06:43:46.511Z CLI debug [main]     Resolved listen address: 127.0.0.1:5401
+2025-06-29T06:43:46.548Z CLI info [main]     Server listening on port: 5401
+2025-06-29T06:43:46.549Z CLI debug     [2025-06-29T06:43:46.549Z][ OBSERVABILITY ] Monitoring has started
+2025-06-29T07:11:42.705Z CLI debug [testhub:service]     loaded module: _0x53428d
+2025-06-29T07:11:42.705Z CLI debug [instrumentation:service]     loaded module: instrumentation:module
+2025-06-29T07:11:42.705Z CLI debug [observability:service]     loaded module: observability:module
+2025-06-29T07:11:42.705Z CLI debug [accessibility:service]     loaded module: accessibility:module
+2025-06-29T07:11:42.706Z CLI debug [ai:service]     loaded module: _0x56cf5f
+2025-06-29T07:11:42.706Z CLI debug [percy:service]     loaded module: _0x1cf5af
+2025-06-29T07:11:42.706Z CLI debug [local:service]     loaded module: _0x11bf74
+2025-06-29T07:11:42.706Z CLI debug [appautomate:service]     loaded module: appautomate:module
+2025-06-29T07:11:42.762Z CLI debug [main]     Starting main function execution
+2025-06-29T07:11:42.763Z CLI debug [main]     Executing CLI
+2025-06-29T07:11:44.923Z CLI debug [testhub:service]     loaded module: _0x53428d
+2025-06-29T07:11:44.923Z CLI debug [instrumentation:service]     loaded module: instrumentation:module
+2025-06-29T07:11:44.923Z CLI debug [observability:service]     loaded module: observability:module
+2025-06-29T07:11:44.923Z CLI debug [accessibility:service]     loaded module: accessibility:module
+2025-06-29T07:11:44.924Z CLI debug [ai:service]     loaded module: _0x56cf5f
+2025-06-29T07:11:44.924Z CLI debug [percy:service]     loaded module: _0x1cf5af
+2025-06-29T07:11:44.925Z CLI debug [local:service]     loaded module: _0x11bf74
+2025-06-29T07:11:44.925Z CLI debug [appautomate:service]     loaded module: appautomate:module
+2025-06-29T07:11:44.980Z CLI debug [main]     Starting main function execution
+2025-06-29T07:11:44.981Z CLI debug [main]     Generated binSessionId: 628ab79a-49d2-4418-9262-bd4a0707197f
+2025-06-29T07:11:44.986Z CLI debug [main]     Resolved listen address: 127.0.0.1:5402
+2025-06-29T07:11:45.008Z CLI info [main]     Server listening on port: 5402
+2025-06-29T07:11:45.009Z CLI debug     [2025-06-29T07:11:45.008Z][ OBSERVABILITY ] Monitoring has started
+2025-06-29T07:13:26.366Z CLI debug [testhub:service]     loaded module: _0x53428d
+2025-06-29T07:13:26.367Z CLI debug [instrumentation:service]     loaded module: instrumentation:module
+2025-06-29T07:13:26.367Z CLI debug [observability:service]     loaded module: observability:module
+2025-06-29T07:13:26.368Z CLI debug [accessibility:service]     loaded module: accessibility:module
+2025-06-29T07:13:26.368Z CLI debug [ai:service]     loaded module: _0x56cf5f
+2025-06-29T07:13:26.369Z CLI debug [percy:service]     loaded module: _0x1cf5af
+2025-06-29T07:13:26.369Z CLI debug [local:service]     loaded module: _0x11bf74
+2025-06-29T07:13:26.369Z CLI debug [appautomate:service]     loaded module: appautomate:module
+2025-06-29T07:13:26.437Z CLI debug [main]     Starting main function execution
+2025-06-29T07:13:26.439Z CLI debug [main]     Executing CLI
+2025-06-29T07:13:28.442Z CLI debug [testhub:service]     loaded module: _0x53428d
+2025-06-29T07:13:28.442Z CLI debug [instrumentation:service]     loaded module: instrumentation:module
+2025-06-29T07:13:28.442Z CLI debug [observability:service]     loaded module: observability:module
+2025-06-29T07:13:28.443Z CLI debug [accessibility:service]     loaded module: accessibility:module
+2025-06-29T07:13:28.443Z CLI debug [ai:service]     loaded module: _0x56cf5f
+2025-06-29T07:13:28.443Z CLI debug [percy:service]     loaded module: _0x1cf5af
+2025-06-29T07:13:28.444Z CLI debug [local:service]     loaded module: _0x11bf74
+2025-06-29T07:13:28.444Z CLI debug [appautomate:service]     loaded module: appautomate:module
+2025-06-29T07:13:28.514Z CLI debug [main]     Starting main function execution
+2025-06-29T07:13:28.514Z CLI debug [main]     Generated binSessionId: db6fdcb6-2e06-4a27-957b-7e414c9764da
+2025-06-29T07:13:28.523Z CLI debug [main]     Resolved listen address: 127.0.0.1:5403
+2025-06-29T07:13:28.560Z CLI info [main]     Server listening on port: 5403
+2025-06-29T07:13:28.560Z CLI debug     [2025-06-29T07:13:28.560Z][ OBSERVABILITY ] Monitoring has started
+2025-06-29T07:14:05.235Z CLI debug [testhub:service]     loaded module: _0x53428d
+2025-06-29T07:14:05.235Z CLI debug [instrumentation:service]     loaded module: instrumentation:module
+2025-06-29T07:14:05.236Z CLI debug [observability:service]     loaded module: observability:module
+2025-06-29T07:14:05.236Z CLI debug [accessibility:service]     loaded module: accessibility:module
+2025-06-29T07:14:05.236Z CLI debug [ai:service]     loaded module: _0x56cf5f
+2025-06-29T07:14:05.236Z CLI debug [percy:service]     loaded module: _0x1cf5af
+2025-06-29T07:14:05.237Z CLI debug [local:service]     loaded module: _0x11bf74
+2025-06-29T07:14:05.237Z CLI debug [appautomate:service]     loaded module: appautomate:module
+2025-06-29T07:14:05.303Z CLI debug [main]     Starting main function execution
+2025-06-29T07:14:05.304Z CLI debug [main]     Executing CLI
+2025-06-29T07:14:06.766Z CLI debug [testhub:service]     loaded module: _0x53428d
+2025-06-29T07:14:06.767Z CLI debug [instrumentation:service]     loaded module: instrumentation:module
+2025-06-29T07:14:06.767Z CLI debug [observability:service]     loaded module: observability:module
+2025-06-29T07:14:06.767Z CLI debug [accessibility:service]     loaded module: accessibility:module
+2025-06-29T07:14:06.767Z CLI debug [ai:service]     loaded module: _0x56cf5f
+2025-06-29T07:14:06.767Z CLI debug [percy:service]     loaded module: _0x1cf5af
+2025-06-29T07:14:06.768Z CLI debug [local:service]     loaded module: _0x11bf74
+2025-06-29T07:14:06.768Z CLI debug [appautomate:service]     loaded module: appautomate:module
+2025-06-29T07:14:06.833Z CLI debug [main]     Starting main function execution
+2025-06-29T07:14:06.834Z CLI debug [main]     Generated binSessionId: af3ebfbc-e437-493b-9581-8b7a77dc916c
+2025-06-29T07:14:06.841Z CLI debug [main]     Resolved listen address: 127.0.0.1:5403
+2025-06-29T07:14:06.868Z CLI info [main]     Server listening on port: 5403
+2025-06-29T07:14:06.868Z CLI debug     [2025-06-29T07:14:06.868Z][ OBSERVABILITY ] Monitoring has started

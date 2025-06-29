@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="15" parallel="tests" name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="15" name="Default test-2(failed)">
+    <parameter name="platform" value="2"/>
+    <classes>
+      <class name="testScript.SwagLabsTest">
+        <methods>
+          <include name="testAddItemsAndCheckout"/>
+          <include name="logout"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+          <include name="login"/>
+        </methods>
+      </class> <!-- testScript.SwagLabsTest -->
+    </classes>
+  </test> <!-- Default test-2(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
